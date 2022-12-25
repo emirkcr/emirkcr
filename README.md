@@ -1,5 +1,8 @@
 # 🧑🏻  About Me:
-⚡ My name is Emir, living in Germany<br>👀 I'm interested in Cyber Security.<br>🔭 I’m currently working on an quiz-application, which should work like Kahoot! <br>🌱 I’m currently learning JavaScript.
+⚡ My name is Emir, I'm an Developer! <br>
+🌍 Living in Germany, Languages: German, Turkish, French, English <br>
+🔭 Currently working on an quiz-application, which should work like Kahoot! <br>
+🌱 Learning JavaScript
 
 
 ## 🌐 Socials:
