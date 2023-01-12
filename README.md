@@ -1,5 +1,5 @@
 # 🧑🏻  About Me:
-⚡ My name is Emir, I'm an Developer! <br>
+⚡ My name is Emir, I'm an Full-Stack-Developer! <br>
 🌍 Living in Germany, Languages: German, Turkish, French, English <br>
 🔭 Currently working on an quiz-application, which should work like Kahoot! <br>
 🌱 Learning JavaScript
